@@ -1,6 +1,6 @@
-[![GitHub issues](https://img.shields.io/github/issues/RezxisNetwork/MinecraftTransport-Client?style=for-the-badge)](https://github.com/RezxisNetwork/MinecraftTransport-Client/issues)
-[![GitHub stars](https://img.shields.io/github/stars/RezxisNetwork/MinecraftTransport-Client?style=for-the-badge)](https://github.com/RezxisNetwork/MinecraftTransport-Client/stargazers)
-[![GitHub license](https://img.shields.io/github/license/RezxisNetwork/MinecraftTransport-Client?style=for-the-badge)](https://github.com/RezxisNetwork/MinecraftTransport-Client)
+[![GitHub issues](https://img.shields.io/github/issues/RezxisNetwork/MinecraftTransport-Client?style=for-the-badge)](https://github.com/ChinJun-Group/Minecraft.Remote-Connect-Client/issues)
+[![GitHub stars](https://img.shields.io/github/stars/RezxisNetwork/MinecraftTransport-Client?style=for-the-badge)](https://github.com/ChinJun-Group/Minecraft.Remote-Connect-Client/stargazers)
+[![GitHub license](https://img.shields.io/github/license/RezxisNetwork/MinecraftTransport-Client?style=for-the-badge)](https://github.com/ChinJun-Group/Minecraft.Remote-Connect-Client/MinecraftTransport-Client)
 # MinecraftTransport-Client
 This is a Spigot plugin that allows you to publish a server without opening ports.  
 It works with Paper / Bukkit / Spigot etc.  
@@ -14,8 +14,3 @@ Cannot be used for vanilla servers or mod servers.
 # WARNING
 version 0.0.1-SNAPSHOT and version 0.0.2-SNAPSHOT are not compatible!  
 you have to regenerate configuration file.
-
-# Proxy Server
-mctp1.nohit.cc:9998  
-mctp2.nohit.cc:9998  
-mctp3.nohit.cc:9998  
